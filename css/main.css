@@ -11,6 +11,7 @@ body {
   background: var(--mainWhite);
   color: var(--mainDark);
 }
+
 .budget-feedback,
 .expense-feedback {
   display: none;
