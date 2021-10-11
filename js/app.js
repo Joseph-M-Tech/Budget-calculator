@@ -1,3 +1,4 @@
+
 class UI {
   constructor() {
     this.budgetFeedback = document.querySelector(".budget-feedback");
